@@ -21,10 +21,13 @@ Enjoy your visit!!
 
 <img width="1440" alt="Screen Shot 2023-02-05 at 8 19 48 PM" src="https://user-images.githubusercontent.com/116209354/216882917-78a0b8df-d4cc-4ebb-968c-563baa7d85d9.png">
 
-
-
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 45 08 PM" src="https://user-images.githubusercontent.com/116209354/216881139-c576e028-6698-423a-b6f7-b92fc4f487f4.png">
+<img width="1440" alt="Screen Shot 2023-02-05 at 8 20 36 PM" src="https://user-images.githubusercontent.com/116209354/216883326-068ee57b-0c9c-4277-99eb-ebee3ec4a595.png">
+
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 45 41 PM" src="https://user-images.githubusercontent.com/116209354/216881168-24bb7e27-301b-4b4e-83f9-856090be5637.png">
+
+<img width="1440" alt="Screen Shot 2023-02-05 at 8 20 49 PM" src="https://user-images.githubusercontent.com/116209354/216883347-27800a88-194b-4da9-95f1-73a88f34f735.png">
+
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 46 01 PM" src="https://user-images.githubusercontent.com/116209354/216881182-0a370640-433a-49e9-a8d9-9977cba86947.png">
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 46 08 PM" src="https://user-images.githubusercontent.com/116209354/216881189-51fe3bb6-d9b6-4ff9-80d1-9501c249760d.png">
 
