@@ -13,8 +13,11 @@ An intersting aspect of the site is that the whole project is contained on one H
 Enjoy your visit!!
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 44 13 PM" src="https://user-images.githubusercontent.com/116209354/216882625-a6997609-c62f-49b0-9923-59dce4c9f99c.png">
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 44 34 PM" src="https://user-images.githubusercontent.com/116209354/216881104-35e06272-a4f6-4f68-bacb-5c1f9da6c6f3.png">
-<img width="1440" alt="Screen Shot 2023-02-05 at 7 44 57 PM" src="https://user-images.githubusercontent.com/116209354/216881116-364d3d71-891f-40d4-a021-74c45987c137.png">
+
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 44 50 PM" src="https://user-images.githubusercontent.com/116209354/216881128-db989bad-f97c-4d38-bd57-ee2ed37f3c38.png">
+
+<img width="1440" alt="Screen Shot 2023-02-05 at 7 44 57 PM" src="https://user-images.githubusercontent.com/116209354/216881116-364d3d71-891f-40d4-a021-74c45987c137.png">
+
 
 
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 45 08 PM" src="https://user-images.githubusercontent.com/116209354/216881139-c576e028-6698-423a-b6f7-b92fc4f487f4.png">
