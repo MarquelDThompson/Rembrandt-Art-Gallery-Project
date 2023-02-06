@@ -21,5 +21,4 @@ Enjoy your visit!!
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 46 08 PM" src="https://user-images.githubusercontent.com/116209354/216881189-51fe3bb6-d9b6-4ff9-80d1-9501c249760d.png">
 
 
-( I want to credit Pluralsite. I was able to achieve success with this project by following along with courses form Plural Site. I did not create this website on my own. The main objective 
-I set out to accomplish was to showcase my ability to impliment bootstrap ,and create a dynamic website compatible with varios screen sizes and devises. ) 
+( I want to credit Pluralsite. I was able to achieve success with this project by following along with courses form Plural Site. I did not create this website on my own. The main objective I set out to accomplish was to showcase my ability to impliment bootstrap ,and create a dynamic website compatible with varios screen sizes and devises. ) 
