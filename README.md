@@ -11,12 +11,28 @@ We hope that this project inspires you to learn more about Rembrandt and his inc
 An intersting aspect of the site is that the whole project is contained on one HTML file , each section of the page is linked to the navbar buttons . Soo when you click paintings for example , the page will scroll to that part of the page with a nice animation thanks to a JavaScript function .
 
 Enjoy your visit!!
-[Uploading Screen Shot 2023-02-05 at 7.44.13 PM.png…]()
+<img width="1440" alt="Screen Shot 2023-02-05 at 7 44 13 PM" src="https://user-images.githubusercontent.com/116209354/216882625-a6997609-c62f-49b0-9923-59dce4c9f99c.png">
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 44 34 PM" src="https://user-images.githubusercontent.com/116209354/216881104-35e06272-a4f6-4f68-bacb-5c1f9da6c6f3.png">
-<img width="1440" alt="Screen Shot 2023-02-05 at 7 44 57 PM" src="https://user-images.githubusercontent.com/116209354/216881116-364d3d71-891f-40d4-a021-74c45987c137.png">
+
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 44 50 PM" src="https://user-images.githubusercontent.com/116209354/216881128-db989bad-f97c-4d38-bd57-ee2ed37f3c38.png">
+
+<img width="1440" alt="Screen Shot 2023-02-05 at 7 44 57 PM" src="https://user-images.githubusercontent.com/116209354/216881116-364d3d71-891f-40d4-a021-74c45987c137.png">
+
+
+
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 45 08 PM" src="https://user-images.githubusercontent.com/116209354/216881139-c576e028-6698-423a-b6f7-b92fc4f487f4.png">
+<img width="1440" alt="Screen Shot 2023-02-05 at 8 20 36 PM" src="https://user-images.githubusercontent.com/116209354/216883326-068ee57b-0c9c-4277-99eb-ebee3ec4a595.png">
+
+<img width="1440" alt="Screen Shot 2023-02-05 at 7 45 27 PM" src="https://user-images.githubusercontent.com/116209354/216882808-3776c927-92cf-4da0-bc26-61b3d7467022.png">
+
+<img width="1440" alt="Screen Shot 2023-02-05 at 8 19 39 PM" src="https://user-images.githubusercontent.com/116209354/216882893-452af5d2-8ca4-4946-a35e-1c80bf10f386.png">
+
+<img width="1440" alt="Screen Shot 2023-02-05 at 8 19 48 PM" src="https://user-images.githubusercontent.com/116209354/216882917-78a0b8df-d4cc-4ebb-968c-563baa7d85d9.png">
+
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 45 41 PM" src="https://user-images.githubusercontent.com/116209354/216881168-24bb7e27-301b-4b4e-83f9-856090be5637.png">
+
+<img width="1440" alt="Screen Shot 2023-02-05 at 8 20 49 PM" src="https://user-images.githubusercontent.com/116209354/216883347-27800a88-194b-4da9-95f1-73a88f34f735.png">
+
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 46 01 PM" src="https://user-images.githubusercontent.com/116209354/216881182-0a370640-433a-49e9-a8d9-9977cba86947.png">
 <img width="1440" alt="Screen Shot 2023-02-05 at 7 46 08 PM" src="https://user-images.githubusercontent.com/116209354/216881189-51fe3bb6-d9b6-4ff9-80d1-9501c249760d.png">
 
